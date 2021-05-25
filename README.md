@@ -8,5 +8,7 @@
 * [Class] DataDealer (for data storage)
 
 You can modify the code (creating new inherit class) or rebuild the structure (?)
+
 I write the codes for data to finish my project and undergraduate thesis. 
+
 So codes may seem quite UGLY especially later ones.
